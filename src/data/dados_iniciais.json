@@ -1,41 +1,41 @@
 {
   "categorias": [
     {
-      "titulo": "Front End",
-      "link": "https://www.alura.com.br/formacao-front-end",
+      "titulo": "DEV",
+      "link": "https://www.ofelizardo.com/",
       "cor": "#6BD1FF",
       "link_extra": {
-        "text": "Formação de Front End na Alura",
-        "url": "https://www.alura.com.br/cursos-online-front-end"
+        "text": "Aqui você encontra tudo sobre DEV",
+        "url": "https://www.ofelizardo.com/"
       },
       "videos": [
         {
-          "titulo": "O que faz uma desenvolvedora front-end? #HipstersPontoTube",
-          "url": "https://www.youtube.com/watch?v=ZY3-MFxVdEw"
+          "titulo": "O Framework Que Vai Mudar Como Você Faz Desenvolvimento Web Daqui Pra Frente",
+          "url": "https://www.youtube.com/watch?v=WVtijTZPZck"
         },
         {
-          "titulo": "SEO com React",
-          "url": "https://www.youtube.com/watch?v=c8mVlakBESE"
+          "titulo": "Curso de HTML5 + CSS3 + JS atualizado em 2020",
+          "url": "https://www.youtube.com/watch?v=P8LxrpNQrTU"
         },
         {
-          "titulo": "Componentização com VanillaJS #AluraMais",
-          "url": "https://www.youtube.com/watch?v=LatCKpcOMak"
+          "titulo": "3 Técnicas Que Eu Uso Para Aprender a Programar Qualquer Coisa (mesmo sem ter o dom da programação)",
+          "url": "https://www.youtube.com/watch?v=ZtMzB5CoekE"
         },
         {
           "titulo": "Pare de chutar e aprenda a display: inline #01",
           "url": "https://www.youtube.com/watch?v=5PS6ku8NzIE"
         },
         {
-          "titulo": "Template String: Interpolando strings com JavaScript #AluraMais",
-          "url": "https://www.youtube.com/watch?v=ORI_HTXaIw0"
+          "titulo": "Autenticação no React Native / ReactJS com Context API & Hooks | Masterclass #12",
+          "url": "https://www.youtube.com/watch?v=KISMYYXSIX8"
         },
         {
           "titulo": "Qual é a melhor linguagem de programação? #HipstersPontoTube",
           "url": "https://www.youtube.com/watch?v=Uh-GNH-t89w"
         },
         {
-          "titulo": "Novidades do Angular v9",
-          "url": "https://www.youtube.com/watch?v=34uHo7hFmG0"
+          "titulo": "Programador só escreve código...",
+          "url": "https://www.youtube.com/watch?v=phc7DkyqsoM"
         },
         {
           "titulo": "Base para aprender os frameworks",
@@ -44,58 +44,58 @@
       ]
     },
     {
-      "titulo": "Back End",
+      "titulo": "Filmes",
       "cor": "#00C86F",
       "link_extra": {
-        "text": "Cursos de Back End na Alura",
-        "url": "https://www.alura.com.br/cursos-online-programacao"
+        "text": "Tudo sobre filmes",
+        "url": "https://www.ofelizardo.com/"
       },
       "videos": [
         {
-          "titulo": "PERCURSO em NÍVEL em ÁRVORE BINÁRIA | Estruturas de Dados #14",
-          "url": "https://www.youtube.com/watch?v=UOK7nS2E9xM"
+          "titulo": "Bad Boys Para Sempre",
+          "url": "https://www.youtube.com/watch?v=jCCGGYvFjlw"
         },
         {
-          "titulo": "Coders4Tips - S01E04: GitHub CLI - Uma Nova Experiência no Github!",
-          "url": "https://www.youtube.com/watch?v=6o6-bKOZOEY"
+          "titulo": "King’s Man: A Origem",
+          "url": "https://www.youtube.com/watch?v=prUwszgnYVw"
         },
         {
-          "titulo": "Programei 4 robôs que criam vídeos para mim no YouTube",
-          "url": "https://www.youtube.com/watch?v=kjhu1LEmRpY"
+          "titulo": "Sonic - O Filme",
+          "url": "https://www.youtube.com/watch?v=zQEjE_M2Esw"
         },
         {
-          "titulo": "API: Dicionário do Programador",
-          "url": "https://www.youtube.com/watch?v=vGuqKIRWosk"
+          "titulo": "Resgate",
+          "url": "https://www.youtube.com/watch?v=GMKKq_bYd0E"
         }, 
         {
-          "titulo": "Usando Git Direito",
-          "url": "https://www.youtube.com/watch?v=6OokP-NE49k"
+          "titulo": "Top Gun: Maverick",
+          "url": "https://www.youtube.com/watch?v=g4U4BQW9OEk"
         }
       ]
     },
     {
-      "titulo": "Data Science e Inteligência Artificial",
+      "titulo": "Nerdice",
       "cor": "#9cd33b",
       "link_extra": {
-        "text": "Cursos de Data Science na Alura",
-        "url": "https://www.alura.com.br/formacao-data-science"
+        "text": "Tudo sobre nerdice",
+        "url": "https://www.ofelizardo.com/"
       },
       "videos": [
         {
-          "titulo": "Teste de Turing",
-          "url": "https://www.youtube.com/watch?v=BaPGU4JWa34"
+          "titulo": "The Boys S2 é de explodir cabeças!",
+          "url": "https://www.youtube.com/watch?v=kuO0RqtsdqE"
         },
         {
-          "titulo": "O que é Data Science?",
-          "url": "https://www.youtube.com/watch?v=5b9Z8toVaAU&t=9s"
+          "titulo": "DARK PARA NOOBS: TUDO QUE VOCÊ PRECISA ENTENDER",
+          "url": "https://www.youtube.com/watch?v=6LeztwVjm7A"
         },
         {
-          "titulo": "Melhor forma de aprender Python",
-          "url": "https://www.youtube.com/watch?v=Gojqw9BQ5qY"
+          "titulo": "Como os cientistas CRIAM uma VACINA?",
+          "url": "https://www.youtube.com/watch?v=zfWnJN87LeY"
         },
         {
-          "titulo": "Como ingressar no mercado de Data Science?",
-          "url": "https://www.youtube.com/watch?v=gxyjGmOV540"
+          "titulo": "Algoritmos que salvam vidas | Nerdologia Tech",
+          "url": "https://www.youtube.com/watch?v=m0ibiy-NX9c"
         }
       ]
     },
